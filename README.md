@@ -13,3 +13,21 @@ The charts answers their following questions:
    4. Top 10 states that contributed to sales.
    5. Sales percentage among particular age groups.
    6. Which online channels contributed to higher sales.
+
+## Screenshots
+
+Objective
+***
+
+(https://github.com/Abhi-dot-7528/jamuna_das_store_analysis/blob/main/screenshots/objective.png "Objective.png)
+
+Charts
+***
+(https://github.com/Abhi-dot-7528/jamuna_das_store_analysis/blob/main/screenshots/charts.png "Chart.png")
+
+Pivot Tables
+***
+
+(https://github.com/Abhi-dot-7528/jamuna_das_store_analysis/blob/main/screenshots/pivot_table%231.png "Pivot Table #1)
+
+(https://github.com/Abhi-dot-7528/jamuna_das_store_analysis/blob/main/screenshots/pivot_table%232.png "Pivot Table #2)
